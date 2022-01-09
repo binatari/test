@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0427dafd.chunk.css",
+    "main.js": "/static/js/main.09712253.chunk.js",
+    "main.js.map": "/static/js/main.09712253.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f345319.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f345319.js.map",
+    "static/js/2.0bcb899a.chunk.js": "/static/js/2.0bcb899a.chunk.js",
+    "static/js/2.0bcb899a.chunk.js.map": "/static/js/2.0bcb899a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0427dafd.chunk.css.map": "/static/css/main.0427dafd.chunk.css.map",
+    "static/js/2.0bcb899a.chunk.js.LICENSE.txt": "/static/js/2.0bcb899a.chunk.js.LICENSE.txt",
+    "static/media/Icon.svg": "/static/media/Icon.e8c7f093.svg",
+    "static/media/style.scss": "/static/media/tokyo.7bcedc8c.jpg",
+    "static/media/Shape.svg": "/static/media/Shape.baf61354.svg",
+    "static/media/Video.jpg": "/static/media/Video.6375ee42.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.d9c1a012.svg",
+    "static/media/building.jpg": "/static/media/building.e2c6b9ef.jpg",
+    "static/media/halls.jpg": "/static/media/halls.eb8a27ca.jpg",
+    "static/media/jap.svg": "/static/media/jap.0c8d7c37.svg",
+    "static/media/nagoyabg.jpg": "/static/media/nagoyabg.6606728a.jpg",
+    "static/media/niigatabg.jpg": "/static/media/niigatabg.24c8ecb2.jpg",
+    "static/media/odigo-Logo-blue.svg": "/static/media/odigo-Logo-blue.264ecb3c.svg",
+    "static/media/odigo-Logo-white.svg": "/static/media/odigo-Logo-white.b030d383.svg",
+    "static/media/odigo-Logo.svg": "/static/media/odigo-Logo.3b714afb.svg",
+    "static/media/osakabg.jpg": "/static/media/osakabg.16136d92.jpg",
+    "static/media/rec.png": "/static/media/rec.ce3a9011.png",
+    "static/media/saitamabg.jpg": "/static/media/saitamabg.a2aca096.jpg",
+    "static/media/shibuyabg.jpg": "/static/media/shibuyabg.45ace789.jpg",
+    "static/media/uenobg.jpg": "/static/media/uenobg.4d0f6931.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f345319.js",
+    "static/js/2.0bcb899a.chunk.js",
+    "static/css/main.0427dafd.chunk.css",
+    "static/js/main.09712253.chunk.js"
+  ]
+}
